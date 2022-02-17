@@ -48,6 +48,13 @@
         "addresses": [
             "totalfreedom.me"
         ]
+    },	
+    {
+        "id": "infernalmc",
+        "name": "InfernalMC Network",
+        "addresses": [
+            "infernalnc.cc"
+        ]
     },
     {
         "id": "dashpvp",
